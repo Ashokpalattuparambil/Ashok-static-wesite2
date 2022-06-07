@@ -325,7 +325,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: calc(100vh - 110px);
-  background: url("https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg") top center;
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWamXDTWWc3bL5y0-g7xYR_0rP4qEb9gyz-A&usqp=CAU") top center;
   background-size: cover;
   position: relative;
 }
