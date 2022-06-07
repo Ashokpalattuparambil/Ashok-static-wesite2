@@ -325,7 +325,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: calc(100vh - 110px);
-  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWamXDTWWc3bL5y0-g7xYR_0rP4qEb9gyz-A&usqp=CAU") top center;
+  background: url("https://img.freepik.com/free-photo/programmer-scanning-screen-his-smartwatch-with-smartphone-camera_1098-18710.jpg?w=2000") top center;
   background-size: cover;
   position: relative;
 }
@@ -368,11 +368,10 @@ h1, h2, h3, h4, h5, h6 {
   border-color: #390f5ed7;
 }
 .avatar{
-  
   padding-bottom: 40px;
   height: 300px;
   width: 300px;
-  border-radius: 200px;
+ 
 }
 @media (min-width: 1024px) {
   #hero {
